@@ -1,0 +1,28 @@
+{
+  "name": "apollo-react-hooks-s3-upload",
+  "version": "1.0.0",
+  "description": "Uploading files to S3 using AC3, AS2, and React Hooks.",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "apollo",
+    "s3",
+    "uploads"
+  ],
+  "author": "Khalil Stemmler <khalil@apollographql.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^13.1.6",
+    "apollo-server": "^2.9.16",
+    "aws-sdk": "^2.600.0",
+    "cloudinary": "^1.18.1",
+    "typescript": "^3.7.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
