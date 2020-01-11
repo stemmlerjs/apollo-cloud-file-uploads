@@ -1,7 +1,7 @@
 {
-  "name": "apollo-react-hooks-s3-upload",
+  "name": "apollo-hooks-cloud-uploads",
   "version": "1.0.0",
-  "description": "Uploading files to S3 using AC3, AS2, and React Hooks.",
+  "description": "Uploading files to S3, Cloudinary, and other cloud services using Apollo Server and React Hooks.",
   "main": "index.js",
   "scripts": {
     "build": "tsc",
@@ -11,6 +11,7 @@
   "keywords": [
     "apollo",
     "s3",
+    "cloudinary",
     "uploads"
   ],
   "author": "Khalil Stemmler <khalil@apollographql.com>",
