@@ -1,3 +1,9 @@
+# Client
+
+> This is how to perform file uploads using **Multipart requests** with Apollo Client. The only dependency is the `apollo-upload-client` package which adds capabilities for multipart requests to the ApolloClient instance. 
+
+--- 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
