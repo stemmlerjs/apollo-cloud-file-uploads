@@ -1,4 +1,4 @@
-# Client
+# Client-side file uploads
 
 > This is how to perform file uploads using **Multipart requests** with Apollo Client. The only dependency is the `apollo-upload-client` package which adds capabilities for multipart requests to the ApolloClient instance. 
 
