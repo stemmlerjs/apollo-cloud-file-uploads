@@ -19,7 +19,7 @@
   "dependencies": {
     "@types/node": "^13.1.6",
     "apollo-server": "^2.9.16",
-    "aws-sdk": "^2.600.0",
+    "aws-sdk": "^2.814.0",
     "cloudinary": "^1.18.1",
     "typescript": "^3.7.4"
   },
